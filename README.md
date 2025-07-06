@@ -7,4 +7,4 @@ This is designed to be used with [Daggerheart Foundry System](https://github.com
 The creator is not associated with Darrington Press. 
 
 ## Installation
-Install the system using this manifest link: https://raw.githubusercontent.com/unofficial-daggerheart/daggerheart/master/system.json
+Install the system using this manifest link: [https://raw.githubusercontent.com/unofficial-daggerheart/daggerheart/master/system.json](https://raw.githubusercontent.com/hughmann-dg/daggerheartsrd/master/module.json)
