@@ -1,7 +1,7 @@
 {
   "id": "daggerheartsrd",
   "title": "Daggerheart SRD",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -93,5 +93,5 @@
       }
     ]
   },
-  "description": ""
+  "description": "A Daggerheart Compendium Module to be used with the unoffical Daggerheart System."
 }
