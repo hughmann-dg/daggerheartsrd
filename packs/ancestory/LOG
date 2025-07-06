@@ -1,0 +1,8 @@
+2025/07/05-13:26:04.298 5ca0 Recovering log #4
+2025/07/05-13:26:04.304 5ca0 Delete type=0 #4
+2025/07/05-13:26:04.304 5ca0 Delete type=3 #2
+2025/07/05-13:27:37.441 61c0 Level-0 table #9: started
+2025/07/05-13:27:37.441 61c0 Level-0 table #9: 0 bytes OK
+2025/07/05-13:27:37.444 61c0 Delete type=0 #7
+2025/07/05-13:27:37.449 61c0 Manual compaction at level-0 from '!items!1B3NusznPsTzCNQd' @ 72057594037927935 : 1 .. '!items!yrgo8ZJf4FQ1y2YI' @ 0 : 0; will stop at (end)
+2025/07/05-13:27:37.449 61c0 Manual compaction at level-1 from '!items!1B3NusznPsTzCNQd' @ 72057594037927935 : 1 .. '!items!yrgo8ZJf4FQ1y2YI' @ 0 : 0; will stop at (end)

@@ -1,0 +1,15 @@
+2025/07/06-10:32:34.585 4cdc Recovering log #63
+2025/07/06-10:32:34.590 4cdc Delete type=0 #63
+2025/07/06-10:32:34.590 4cdc Delete type=3 #62
+2025/07/06-11:59:42.689 2d64 Level-0 table #67: started
+2025/07/06-11:59:42.693 2d64 Level-0 table #67: 7002 bytes OK
+2025/07/06-11:59:42.698 2d64 Delete type=0 #65
+2025/07/06-11:59:42.705 2d64 Manual compaction at level-0 from '!items!8RUaHbtWQ0qcMxMu' @ 72057594037927935 : 1 .. '!items!sA1S5kKXWHLvTL4r' @ 0 : 0; will stop at (end)
+2025/07/06-11:59:42.713 2d64 Manual compaction at level-1 from '!items!8RUaHbtWQ0qcMxMu' @ 72057594037927935 : 1 .. '!items!sA1S5kKXWHLvTL4r' @ 0 : 0; will stop at '!items!sA1S5kKXWHLvTL4r' @ 74 : 1
+2025/07/06-11:59:42.715 2d64 Compacting 1@1 + 1@2 files
+2025/07/06-11:59:42.717 2d64 Generated table #68@1: 9 keys, 7002 bytes
+2025/07/06-11:59:42.717 2d64 Compacted 1@1 + 1@2 files => 7002 bytes
+2025/07/06-11:59:42.719 2d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/06-11:59:42.720 2d64 Delete type=2 #45
+2025/07/06-11:59:42.720 2d64 Delete type=2 #67
+2025/07/06-11:59:42.735 2d64 Manual compaction at level-1 from '!items!sA1S5kKXWHLvTL4r' @ 74 : 1 .. '!items!sA1S5kKXWHLvTL4r' @ 0 : 0; will stop at (end)

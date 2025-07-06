@@ -1,0 +1,8 @@
+2025/07/06-10:32:34.566 4eec Recovering log #69
+2025/07/06-10:32:34.569 4eec Delete type=0 #69
+2025/07/06-10:32:34.569 4eec Delete type=3 #68
+2025/07/06-11:59:42.672 2d64 Level-0 table #73: started
+2025/07/06-11:59:42.673 2d64 Level-0 table #73: 0 bytes OK
+2025/07/06-11:59:42.676 2d64 Delete type=0 #71
+2025/07/06-11:59:42.677 2d64 Manual compaction at level-0 from '!actors!eEK2oC4M4108sWan' @ 72057594037927935 : 1 .. '!actors!eEK2oC4M4108sWan' @ 0 : 0; will stop at (end)
+2025/07/06-11:59:42.686 2d64 Manual compaction at level-1 from '!actors!eEK2oC4M4108sWan' @ 72057594037927935 : 1 .. '!actors!eEK2oC4M4108sWan' @ 0 : 0; will stop at (end)
